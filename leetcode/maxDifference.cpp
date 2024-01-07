@@ -6,7 +6,6 @@ class Solution
 public:
     int maxProfit(vector<int> &prices)
     {
-
         int left = 0;
         int right = 1;
         int res = 0;
